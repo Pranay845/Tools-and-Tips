@@ -1,0 +1,6 @@
+1. In Editor > General: Change Font size on ctrl+mousewheel
+2. In Editor > TODO: Add
+3. topic-Blue,
+4. subtopic-Yellow,
+5. note-Lemon Yellow,
+6. documentation-Light Blue.

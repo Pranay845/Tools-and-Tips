@@ -1,0 +1,74 @@
+1. For Daily Life:
+    1. Do Active Learning (Explain things to yourself).
+    2. Do well from the beginning, don’t wait until exam.
+    3. Eliminate Distraction.
+    4. Get organized-google calendar.
+    5. Get things done early.
+    6. Make friends and use resources.
+    7. Spend time wisely.
+
+2. For Programming:
+    1. Break the problem into small parts.
+    2. Check the problem in google or stackoverflow.
+    3. Communicate in technical manner.
+    4. Don’t be afraid to make mistakes.
+    5. Focus on the logic.
+    6. Have fun with programming.
+    7. Mark your progress.
+    8. Programming is thinking.
+    9. Read the error message.
+    10. Read expert's code.
+    10. Stick to one language.
+    11. Try different implementation.
+    12. Concept of key
+    13. Do Problems in easy to hard level, don't skip a level and make a ratio of all level problems (5:3:2)
+    14. Solve problems daily at any cost (problems number can vary)
+    15. Reward yourself
+    16. Solve different Puzzles
+    17. Feel Comfortable to see hints in problems
+    18. Go smooth and slow
+    19. Make notes when you solve problems and do constant revision of the notes
+    20. Set a time limit for solving one single problem
+    21. Do problems with a friend to develop a heathly competetion
+    22. do extra bit of effort
+    23. Pick a random question of a different topic, solve it along with your normal problem sloving
+    
+    1. While writing code:
+        1. Avoid abbreviating variables; define them close to their usage.
+        2. Debug effectively.
+        3. Functions are for one thing.
+        4. Indent code properly.
+        5. Keep it simple.
+        6. Limit function arguments (Least is 3).
+        7. See the syntax.
+        8. Simplify the conditional expressions.
+        9. Update the code frequently.
+
+    2. To learn a new language:
+        1. Research/Find the differences.
+        2. Find features you don't understand.
+        3. Follow a short tutorial.
+        4. Practice with programming problems.
+        5. Look up troubling topics.
+        6. Repeat step 4 & 5 until comfortable.
+        7. Work on a small project.
+
+    3. Portfolio Mistakes:
+        1. Make your website reponsive for all sizes
+        2. Make your website navigatable and make it in a order like not having contact me at the start of the page instead show your work first
+        3. Provide context to your work or experience so it's more understandable to clients like what you have done in that company
+        4. Emphasis your strengths and don't talk about what you don't know and at what technologies you suck 
+            (don't be too honest and don't use progress bars for which technologies you suck)
+        5. Show your work/portfolio first before even showing your about me section
+        6. Carefully structure your website and show your case studies in a good way with very nice thumbnails for your case studies
+        7. Use a website template for your portfolio if you are not good at UI Design 
+            unless you are a professional UI Designer not even a UI Design beginner otherwise hire someone for the UI Designingof the website instead of you
+        8. Look at good UI Designs on the internet for taking inspiration for your portfolio
+
+
+
+
+
+
+
+

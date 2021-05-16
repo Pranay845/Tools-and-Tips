@@ -1,0 +1,165 @@
+1. 30 seconds of code
+2. Auto Close Tag
+3. Auto Import
+4. Auto Rename Tag
+5. Better Align
+6. Better Comments
+7. Bookmarks
+8. Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets
+9. Bracket Pair Colorizer 2
+10. Browser Preview
+11. Code Runner
+12. Code Spell Checker
+13. Code Time
+14. Color Highlight
+15. Community Material Theme
+16. CSS Peek
+17. Debugger for Chrome
+18. Djaneiro - Django Snippets
+19. Django
+20. Django Template
+21. django-intellisense
+22. EditorConfig for VS Code
+23. ESLint
+24. Font Switcher
+25. Git Blame
+26. Git Extension Pack
+27. Git Graph
+28. Git History
+29. GitHub Pull Requests and Issues
+30. gitignore
+31. GitLens — Git supercharged
+32. gitlink
+33. HTML CSS Support
+34. HTML Preview
+35. HTML Snippets
+36. Import Cost
+37. indent-rainbow
+38. Indenticator
+39. IntelliSense for CSS class names in HTML
+40. JavaScript (ES6) code snippets
+41. JavaScript Booster
+42. Jinja
+43. Jupyter
+44. Live Sass Compiler
+45. Live Server
+46. MagicPython
+47. Material Icon Theme
+48. Material Theme
+49. Material Theme Icons
+50. MySQL
+51. Node.js Exec
+52. npm
+53. npm Intellisense
+54. Open in GitHub, Bitbucket, Gitlab, VisualStudio.com !
+55. Paste JSON as Code
+56. Path Intellisense
+57. Polacode
+58. Prettier - Code formatter
+59. Project Manager
+60. Pyright
+61. Python
+62. Python Docstring Generator
+63. Python Extension Pack
+64. Python Indent
+65. Python Preview
+66. python snippets
+67. Python Test Explorer for Visual Studio Code
+68. Quokka.js
+69. REST Client
+70. Sass
+71. Settings Sync
+72. Sort lines
+73. SQL Beautify
+74. Test Explorer UI
+75. TODO Highlight
+76. Turbo Console Log
+77. View Node Package
+78. Visual Studio IntelliCode
+79. Wallaby.js
+80. WebDeveloperPack
+81. Bootstrap 5 & Font Awesome Snippets (Disabled)
+82. Bracket Pair Colorizer (Disabled)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

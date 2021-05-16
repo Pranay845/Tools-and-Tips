@@ -1,0 +1,11 @@
+1. Editor: Mouse Wheel Zoom
+2. Editor: Word Wrap
+3. Editor: Column Selection
+4. Files: Auto Save
+5. Terminal › Integrated: Cursor Blinking
+6. Terminal › Integrated: Cursor Style
+
+Checking:
+    1. Check Extensions Settings.
+    2. If needed add code snippets.
+    3. provided by Extensions.

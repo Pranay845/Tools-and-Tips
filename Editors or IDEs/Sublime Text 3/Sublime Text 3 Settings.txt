@@ -1,0 +1,29 @@
+1. Add a custom keybind for cancelling the build:
+    { "keys" : ["ctrl+alt+c"], "command": "cancel_build"},
+
+2. Add settings of Material Theme:
+    "material_theme_accent_cyan"              : true,
+	"material_theme_panel_separator"          : true,
+	"material_theme_small_tab"                : true,
+	"material_theme_big_fileicons"            : true,
+	"material_theme_small_statusbar"          : true,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

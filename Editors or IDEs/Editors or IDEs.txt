@@ -1,0 +1,69 @@
+1. Editors or IDEs:
+    1. Android Studio
+    2. Atom
+    3. Brackets
+    4. CodeBlocks
+    5. Eclipse
+    6. IDLE
+    7. JetBrains IDEs
+    8. Jupyter NoteBook
+    9. Jupyter Lab
+    10. NetBeans
+    11. Notepad++
+    12. QT Creator
+    13. Sublime Text
+    14. Spyder
+    15. Vim
+    16. Visual Studio Code
+    17. Visual Studio
+    18. Xcode
+
+2. Strategy of using Editors or IDEs:
+    1. Pycharm: Advantages: Good for pure python.
+                Disadvantages: Not good at for Low-End Computers and Web Development in Django.
+
+    2. Spyder: Advantages: Works good on Low-End Computer.
+               Disadvantages: Not good for beginner because it is built top of python.
+
+    3. Jupyter Notebook: Advantages: Good for running programs in pieces.
+                         Disadvantages: Not good at Web Development.
+
+    4. Jupyter Lab: Advantages: Good at Web Development
+                    Disadvantages: Still in Development
+
+    5. VS Code: Advantages: All-in-One IDE.
+                Disadvantages: Not good for Data Science
+
+3. Online Code Editors:
+    1. Repl: https://repl.it/
+    2. Playcode (HTML-CSS-JS): https://playcode.io/
+    3. Gitpod (Editor from Github): https://www.gitpod.io/
+
+4. Auto-Complete for Editors or IDEs:
+    Kite: https://www.kite.com/
+
+5. Editors or IDEs Reference websites:
+    1. Jetbrains: https://www.jetbrains.com/
+    2. Visual Studio Code: https://code.visualstudio.com/
+    3. Sublime Text 3: https://www.sublimetext.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
