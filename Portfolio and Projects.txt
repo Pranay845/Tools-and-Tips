@@ -1,0 +1,154 @@
+What is Portfolio?
+	Portfolio is a showcase that proves that you can do (in programming),
+	what you talk about in your resume/CV and projects.
+	Rather than telling prospective employers about your skills,
+	you can create a software developer portfolio to show them.
+	Portfolio is very very important.
+
+1. Portfolio Tips:
+	1. Be selective in your projects (3 to 6 Projects, quality over quantity).
+	2. Be yourself and honest.
+	3. Build complex projects and show your projects (Complex Projects) first in your portfolio.
+	4. Customize the projects you have done in your courses.
+	5. Don't exaggerate your skills.
+	6. Make a purpose of your portfolio.
+	7. Think about project ideas.
+	8. Web Presence
+		1. Brand yourself
+		2. write articles online
+		3. Make a youtube channel etc.
+
+	9. When building your portfolio be in the shoes of a recruiter/interviewer.
+	
+2. Designing your portfolio:
+	1. Device Mockup (Feature your designs/projects in devices).
+	2. Embed your prototypes and design in your portfolio.
+	3. Frame your Designs and make them pop out.
+	4. Good UI Design fundamentals (Unique Layouts).
+	5. Hijack the cursor.
+	6. Interesting animations tied to scroll, click, cursor movement.
+	7. Maintain visual hierarchy.
+	8. Make your design elements float (Make your elements show outside the device which more information of your UI).
+	9. Nice Micro-interactions.
+	10. Presentable Design/UI.
+	11. Seamless transitions between different pages.
+	12. Show animations in your project thumbnails of the projects (Adobe AfterEffects).
+	13. Smooth Animations.
+	14. Use only one or two colors to depict anything (Use a color system).
+	15. Use Perspective Designs in your UI Presentation (Dribbble, Behance).
+
+3. Portfolio Structure and Feel:
+	1. End your portfolio with a call to action like contacting me.
+	2. Highlight your work more than anything.
+	3. Keep it simple (Shorten Text).
+	4. Make it easy for people to contact you (Call to action).
+	5. Make your headings short and concise.
+	6. Make your website scrollable.
+	7. Provide more information about your projects in short.
+	8. Show your real pictures in your portfolio.
+	9. Show your skills and what you can do in a clever and playful way.
+	10. Tell very little about yourself before anything in your portfolio like your name.
+	11. The call to action should there and it should be easy to access.
+	12. The landing page should attractive and purposeful and elegant.
+
+4. Portfolio Mistakes:
+	1. Carefully structure your website and show your case studies in a good way with very nice thumbnails for your case studies.
+	2. Emphasize your strengths and don't talk about what you don't know and at what technologies you suck,
+	(don't be too honest and don't use progress bars for which technologies you suck).
+
+	3. Look at good UI Designs on the internet for taking inspiration for your portfolio.
+	4. Make your website navigatable and make it in order like not having contacted me at the start of the page instead show your work first.
+	5. Make your website responsive for all sizes.
+	6. Provide context to your work or experience so it's more understandable to clients like what you have done in that company.
+	7. Show your work/portfolio first before even showing you're about me section.
+	8. Use a website template for your portfolio if you are not good at UI Design unless you are a professional UI Designer,
+	not even a UI Design beginner otherwise hire someone for the UI Designing of the website instead of you.
+
+5. Hosting your portfolio:
+	1. Buy a custom domain name - GoDaddy
+	2. Hosting service - Linode
+	3. SSL certificate - GoDaddy/Google Domains
+
+6. Projects:
+	Why Projects?
+		1. Showcase your skillset.
+		2. Innovation and creativity.
+
+	1. Project Categories:
+		1. Apps
+		2. Websites
+		3. Latest Technologies like Machine Learning.
+
+	2. Project Tips:
+		1. Use new technologies in your projects.
+		2. Make your project s practical and usable.
+		3. Don't follow the herd (Unique X factor).
+
+	3. Project Ideas:
+		1. Use Linkedin (Search people's resumes for interesting projects) and Github (Search people's codebase).
+		2. Blog
+		3. Bug Tracker
+		4. Cryptography
+		5. Custom programming language library.
+		6. Financial Portal like stripe.
+		7. Inventory control system like shipment.
+		8. Mixed tech stack projects.
+		9. Work order System.
+
+7. How to use Linkedin:
+	What is Linkedin?
+		Linkedin is a professional's Facebook.
+		It is a professional networking site.
+		It is the most genuine site for searching for jobs.
+	
+	1. Use a real profile picture (Positive vibe).
+	2. Overview should be interesting and on point.
+	3. Try to give as much data about you as possible to make things transparent (Add everything).
+
+	4. Uses of Linkedin:
+		1. Learning by consulting professors.
+		2. Networking with other professionals (Contact others to know their company work culture).
+		3. Applying for jobs (Go to Jobs Section, Apply to many people then only one will accept).
+
+	5. Linkedin Tips:
+		1. Build a strong network (Send requests to your age group of people and check their posts).
+		2. Learn from the best people and utilize them properly (People will tag their mentors.
+		So, contact the mentors and check their projects and make them your mentors).
+
+		3. Send connection requests to at least 500 people.
+		4. Keep posting your programming status like hackerank stars and more regularly no matter what,
+		bring people's attention to you.
+
+		5. Build a complete profile:
+			1. Good Profile Picture
+			2. Nice Overview
+			3. Attach your resume/CV, Portfolio, Github Profile, Youtube Channel, Email, etc to Linkedin.
+			So, recruiters can reach you.
+
+		6. Add keywords of tech stacks in big companies to your resume like C, Java, HTTP.
+		7. Go through a person's profile to understand him and send a message
+		(Tell you have visited his profile) with a connection request to him.
+
+		8. Use and follow Hashtags like #intership etc.
+		9. Follow companies and private institutions.
+		10. Check a person's profile who you think is good. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
