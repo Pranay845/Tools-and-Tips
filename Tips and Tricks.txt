@@ -53,18 +53,6 @@
         6. Repeat step 4 & 5 until comfortable.
         7. Work on a small project.
 
-    3. Portfolio Mistakes:
-        1. Make your website reponsive for all sizes
-        2. Make your website navigatable and make it in a order like not having contact me at the start of the page instead show your work first
-        3. Provide context to your work or experience so it's more understandable to clients like what you have done in that company
-        4. Emphasis your strengths and don't talk about what you don't know and at what technologies you suck 
-            (don't be too honest and don't use progress bars for which technologies you suck)
-        5. Show your work/portfolio first before even showing your about me section
-        6. Carefully structure your website and show your case studies in a good way with very nice thumbnails for your case studies
-        7. Use a website template for your portfolio if you are not good at UI Design 
-            unless you are a professional UI Designer not even a UI Design beginner otherwise hire someone for the UI Designingof the website instead of you
-        8. Look at good UI Designs on the internet for taking inspiration for your portfolio
-
 
 
 
